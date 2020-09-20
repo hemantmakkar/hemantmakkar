@@ -30,6 +30,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/material-ui.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/vscode.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/java.png"></code>
 
 
 *************
