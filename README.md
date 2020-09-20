@@ -24,12 +24,13 @@
 <br />
 
 ### - Languages and Tools...
-<code><img height="20" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/js.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/material-ui.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/js.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/material-ui.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/nodejs.png"></code>
+
 
 *************
 
