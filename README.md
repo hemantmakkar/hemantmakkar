@@ -1,14 +1,5 @@
 ### Hi there, I'm Hemant 👋
 
-<!--
-**hemantmakkar/hemantmakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-
-
 <br/>
 <a href="https://www.linkedin.com/in/hemant-makkar-15039a176/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -35,7 +26,11 @@ Here are some ideas to get you started:
 ### - Languages and Tools...
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/html.png" alt="HTML" style="height:70px; vertical-align:top; margin:0 5px" />
+ <img src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/css.png" alt="CSS" style="vertical-align:top; margin:0 5px; height:70px" />
+ <img src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/js.png" alt="JavaScript" style="vertical-align:top; margin:0 5px; height:70px" />
+ <img src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/material-ui.png" alt="Material-UI" style="vertical-align:top; margin:0 5px; height:55px" />  <img src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/react.png" alt="React" style="vertical-align:top; margin:4px; height:60px" />
+ <img src="https://raw.githubusercontent.com/hemantmakkar/hemantmakkar/master/languages/nodejs.png" alt="NodeJS" style="vertical-align:top; margin:0 5px; height:55px" />
 
 </p>
 
